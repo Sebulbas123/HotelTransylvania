@@ -1,0 +1,11 @@
+{
+  "name": "hotelTransylvania",
+  "short_name": "HlT",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "img/icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}

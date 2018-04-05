@@ -1,0 +1,47 @@
+[
+  
+  {
+    "roomID": "room1",
+    "roomType":"Double room",
+    "roomName":"exclusive rum",
+    "stars": 5,
+    "price": 700,
+    "beds": "2 bed",
+    "currency": "SEK",
+    "images": {
+        "image1": "room1.jpg",
+        "image2": "room2.jpg"
+        
+    }
+  },
+  {
+    "roomID": "room2",
+    "roomType":"Single bed",
+    "roomName":"Single",
+    "stars": 4,
+    "price": 500,
+    "beds": "1 beds",
+    "currency": "SEK",
+    "images": {
+        "image1": "room3.jpg",
+        "image2": "room4.jpg"
+       
+    }
+  },
+  {
+    "roomID": "room3",
+    "roomType":"Familjerum",
+    "roomName":"Family",
+    "stars": 4,
+    "price": 900,
+    "beds": "5 beds",
+    "currency": "SEK",
+    "images": {
+        "image1": "room5.jpg",
+        "image2": "room6.jpg"
+        
+    }
+  
+ 
+  }
+]
